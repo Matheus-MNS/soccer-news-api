@@ -1,26 +1,50 @@
 [
   {
-    "title": "Você sabia?",
-    "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
-    "url": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+    "title": "Onda de lesões desfalca seleções.",
+    "description": "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
+    "image": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {
-    "title": "Por que vou parar de sonhar?",
-    "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
-    "url": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+    "title": "Duas mudanças",
+    "description": "Natascha e Duda Sampaio são chamadas para a Copa América após cortes de Letícia Izidoro e Gabi Nunes",
+    "image": "https://s2.glbimg.com/Bkc2p9mxWqY06Hbj-gzyTzblvMo=/0x0:2048x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/S/W/II9D5BRUq6qIS0Z7yRdA/50517354333-f7de1e9b2f-k.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/natascha-e-duda-sampaio-sao-chamadas-para-a-copa-america-apos-cortes-de-leticia-izidoro-e-gabi-nunes.ghtml"
   },
-  {
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+  {  
+    "title": "Otimismo",
+    "description": "Apesar de derrotas, Pia mantém confiança na seleção: Estaremos prontas para a Copa América",
+    "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
-  {
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+  {  
+    "title": "Copa América",
+    "description": "Apesar de derrotas, Pia mantém confiança na seleção: Estaremos prontas para a Copa América",
+    "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
+  }, 
+  {  
+    "title": "Copa América x Euro",
+    "description": "Conmebol e Uefa anunciam versão feminina da Finalíssima e Intercontinental Sub-20",
+    "image": "https://s2.glbimg.com/KOwt2b-Ix2mFa3-2EaRMiPosqSk=/0x0:1920x750/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/2/s/07SjltQnCMO6MORfX3Lw/libertadoressub20-22.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/02/conmebol-e-uefa-anunciam-versao-feminina-da-finalissima-e-intercontinental-sub-20.ghtml"
+  },  
+  {  
+    "title": "Hora de testar renovação",
+    "description": "Brasil coloca renovação em teste contra Argentina, e Pia diz: Esse time em 2, 3, 4 anos será imparável",
+    "image": "https://s2.glbimg.com/x-CLnv-x2G3ss6SbZJ6tvTXc3KE=/0x0:799x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/b/m/1dJESmRIO37XtKOCvAIA/52202704176-b0946032ed-c.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/09/brasil-coloca-renovacao-em-teste-contra-argentina-e-pia-diz-esse-time-em-2-3-4-anos-sera-imparavel.ghtml"
+  }, 
+  {  
+    "title": "Pia relembra antigas rivalidades ao falar de Brasil x Argentina: É como Suécia x Noruega ou EUA x Canadá",
+    "description": "Técnica diz que espera a seleção brasileira compacta e paciente para estrear com vitória na Copa América",
+    "image": "https://s2.glbimg.com/dFFuFgCy5--z0z55hAZzuGzZras=/0x0:703x351/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/z/t/BpubvcTMShRPHRBMOkdQ/pia-coletiva.jpg",
+    "link": "https://ge.globo.com/ap/futebol/times/ypiranga-ap/noticia/2022/07/09/fora-de-casa-ypiranga-ap-enfrenta-paraiso-to-por-vaga-nas-quartas-de-final-do-brasileiro-feminino-a3.ghtml"
+  }, 
+  {  
+    "title": "Fora de casa, Ypiranga-AP enfrenta Paraíso-TO por vaga nas quartas de final do Brasileiro Feminino A3",
+    "description": "Após empate no primeiro jogo, jogo de volta será neste sábado (9), em Paraíso do Tocantins",
+    "image": "https://s2.glbimg.com/Fsp7FZcLnfDGA8sk8sljOfhUDbI=/0x0:2052x1426/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/d/r/JjNNMRTiy01tXjhBAurQ/290632922-1183514085780555-1427916520698090455-n.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   }
 ]
